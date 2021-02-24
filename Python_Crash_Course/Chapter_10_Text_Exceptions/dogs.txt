@@ -1,0 +1,3 @@
+Perro 1: Manchas
+Perro 2: Coffee
+Perro 3: Luna
